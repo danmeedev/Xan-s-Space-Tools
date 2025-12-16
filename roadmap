@@ -1,0 +1,349 @@
+# UEXbud Feature Roadmap
+*Your Complete Star Citizen Trading Companion*
+
+---
+
+## 🎉 **Currently Available Features**
+
+### 📊 **Trading Dashboard**
+✅ Real-time commodity prices from all terminals  
+✅ View buy/sell prices across the universe  
+✅ Find the best trading opportunities  
+✅ Filter by commodity type  
+✅ Historical price tracking  
+
+### 🛣️ **Trade Routes**
+✅ Find profitable trade routes instantly  
+✅ Filter routes by profit, distance, and investment  
+✅ Terminal selection (choose your starting location)  
+✅ Stock availability indicators  
+✅ Calculate profit per SCU  
+✅ Live/PTU game version switching  
+
+### 🏪 **Marketplace** (95% Complete)
+✅ Browse community marketplace listings (2M+ cached locally!)  
+✅ Lightning-fast search (instant results from cache)  
+✅ Filter by operation (Buy/Sell/Trade/Rent)  
+✅ Search by item name, username, ID, or slug  
+✅ Create your own listings (full production support)  
+✅ Manage your active listings  
+✅ Delete listings  
+✅ View listing details with high-quality images  
+✅ Contact sellers directly  
+✅ Production/Sandbox mode for listings  
+🔄 Message buyers/sellers (chat system - 90% complete)  
+🔄 View negotiations and active deals  
+🔄 Send and receive messages  
+
+### 💬 **Spectrum Community**
+✅ Browse RSI Spectrum forums in-app  
+✅ Full browser navigation controls  
+✅ No need to switch to your web browser!  
+
+### 🎯 **Erkul DPS Calculator**
+✅ Build ship loadouts in-app  
+✅ Compare weapon DPS  
+✅ Full Erkul.games integration  
+✅ Seamless experience  
+
+### ⚙️ **Settings**
+✅ Configure your UEX API key  
+✅ Set up your Secret Key for marketplace  
+✅ Manage marketplace cache (clear/resync)  
+✅ View sync status and cached listing count  
+✅ Overlay controls  
+
+---
+
+## 🚧 **In Progress** (Being Polished Now!)
+
+### 🏪 **Marketplace Final Polish**
+✅ Search optimization (IndexedDB + instant results)  
+✅ Message notifications (activity indicators)  
+✅ Initiate negotiations from listings  
+🔄 Edit your listings (coming soon)  
+🔄 Enhanced loading states (coming soon)  
+
+### 👤 **User Profile Display**
+🔄 Your UEX username and avatar in the app  
+🔄 Quick access to your profile  
+🔄 At-a-glance account info  
+
+---
+
+## 🔜 **Coming Soon** (Next 2-4 Weeks)
+
+### ⭐ **Trade Route Favorites**
+Save your most profitable routes!  
+- Bookmark favorite routes
+- Quick access to saved routes
+- Organize with tags and folders
+- Track route performance over time
+
+### 🚀 **Multi-Stop Route Planner**
+Plan complex trading runs with multiple stops!  
+- Create routes with 3+ destinations
+- Automatic SCU calculation
+- Loading order optimization (what to load first/last)
+- Total profit and time estimates
+- Export routes to share with your org
+
+---
+
+## 🎯 **Planned Features** (4-8 Weeks)
+
+### 🚗 **Vehicles Database**
+Complete ship and vehicle information!  
+- Browse all Star Citizen vehicles
+- Price comparisons across dealerships
+- Specifications and stats
+- Rental vs purchase calculator
+- Find the best place to buy
+
+### ⚙️ **Refinery Manager**
+Track your refinery jobs!  
+- Monitor active refinery jobs
+- Add new jobs quickly
+- Calculate refinery profits
+- Get location recommendations
+- See job completion times
+
+### 🌍 **Locations Guide**
+Complete navigation database!  
+- Browse all star systems
+- Explore planets, moons, and stations
+- Find outposts and cities
+- See available services at each location
+- Jump point navigator
+
+### 📊 **Enhanced Trading Tools**
+Make smarter trading decisions!  
+- Price history charts
+- Top movers of the day
+- Price alerts (get notified!)
+- Compare multiple commodities
+- Export data to spreadsheet
+
+### 👤 **UEX Profile Dashboard**
+Complete profile management!  
+- View your trade history
+- Track your aUEC balance
+- See notifications
+- Manage your reputation
+- Profile statistics
+
+---
+
+## 🎮 **Future Vision** (8+ Weeks)
+
+### 🖥️ **In-Game Overlay**
+Access UEXbud while playing Star Citizen!  
+- Always-on-top overlay
+- Transparent background
+- Customizable size and position
+- Choose which panels to show
+- Multiple color themes
+- Hotkey toggle (Alt+O)
+- Lock/unlock position
+- Works seamlessly with the game
+
+**Example Overlay Layouts:**
+
+```
+Minimal Mode:
+┌──────────────────┐
+│   Trade Prices   │
+│                  │
+└──────────────────┘
+
+Multi-Panel Mode:
+┌─────────┬─────────┬──────────┐
+│ Trading │ Routes  │ Market   │
+├─────────┴─────────┴──────────┤
+│       Live Data View         │
+└──────────────────────────────┘
+```
+
+### 🔐 **Enhanced Security**
+Your credentials, fully protected!  
+- Military-grade encryption
+- Secure credential storage
+- OS-level protection (Keychain/Credential Manager)
+- Safe password management
+- No data ever leaves your computer
+
+---
+
+## 📱 **Feature Categories**
+
+### 💰 **Trading & Economy**
+| Feature | Status |
+|---------|--------|
+| Live Commodity Prices | ✅ Available |
+| Trade Routes | ✅ Available |
+| Route Favorites | 🔜 Coming Soon |
+| Multi-Stop Routes | 🔜 Coming Soon |
+| Price History Charts | 🎯 Planned |
+| Price Alerts | 🎯 Planned |
+
+### 🏪 **Marketplace**
+| Feature | Status |
+|---------|--------|
+| Browse Listings | ✅ Available |
+| Fast Search | ✅ Available |
+| Create Listings | ✅ Available |
+| Manage Listings | ✅ Available |
+| Negotiations/Chat | 🚧 In Progress |
+| Edit Listings | 🚧 In Progress |
+
+### 🚀 **Ships & Gear**
+| Feature | Status |
+|---------|--------|
+| Vehicle Database | 🎯 Planned |
+| Price Comparisons | 🎯 Planned |
+| Loadout Calculator (Erkul) | 🔜 Coming Soon |
+| Component Browser | 🔮 Future |
+
+### 🌐 **Community**
+| Feature | Status |
+|---------|--------|
+| Spectrum Integration | 🔜 Coming Soon |
+| Org Tools | 🔮 Future |
+| Friend Tracking | 🔮 Future |
+
+### 🎮 **In-Game Tools**
+| Feature | Status |
+|---------|--------|
+| Overlay System | 🔮 Future Vision |
+| Customizable Panels | 🔮 Future Vision |
+| Real-time Updates | 🔮 Future Vision |
+
+### ⚙️ **Utilities**
+| Feature | Status |
+|---------|--------|
+| Refinery Manager | 🎯 Planned |
+| Locations Guide | 🎯 Planned |
+| Jump Point Navigator | 🎯 Planned |
+
+---
+
+## 🗓️ **Release Schedule**
+
+### **Version 0.5** - Marketplace Master
+*Release: This Week*
+- Complete marketplace functionality
+- Fast local search
+- Negotiations system
+- User profile display
+
+### **Version 0.6** - Community Connect
+*Release: Next 2 Weeks*
+- Spectrum integration
+- Erkul calculator
+- Trade route favorites
+
+### **Version 0.7** - Advanced Trading
+*Release: 3-4 Weeks*
+- Multi-stop route planner
+- Enhanced trading tools
+- Price history & charts
+
+### **Version 0.8** - Data Central
+*Release: 5-6 Weeks*
+- Vehicles database
+- Refinery manager
+- Locations guide
+- Complete UEX profile
+
+### **Version 0.9** - Overlay Revolution
+*Release: 7-8 Weeks*
+- In-game overlay system
+- Full customization
+- Multi-panel support
+
+### **Version 1.0** - Production Ready
+*Release: 10+ Weeks*
+- Enhanced security
+- Polish & optimization
+- Complete documentation
+- All features stable
+
+---
+
+## 💡 **Feature Requests**
+
+Have an idea? We'd love to hear it!
+
+**Most Requested Features:**
+1. ✅ Fast marketplace search - **DONE!**
+2. 🚧 In-app messaging - **In Progress**
+3. 🔜 Spectrum integration - **Coming Soon**
+4. 🔜 Route favorites - **Coming Soon**
+5. 🔜 Multi-stop routes - **Coming Soon**
+
+---
+
+## 🎯 **Our Mission**
+
+UEXbud aims to be the **ultimate all-in-one companion** for Star Citizen players, providing:
+
+✨ **Real-time Data** - Always up-to-date information  
+⚡ **Lightning Fast** - Instant search and filtering  
+🎨 **Beautiful UI** - Clean, modern interface  
+🔧 **Powerful Tools** - Everything you need in one place  
+🎮 **Game Integration** - Overlay system for in-game use  
+🔐 **Secure** - Your data is safe and encrypted  
+
+---
+
+## 📊 **Progress Overview**
+
+```
+Trading & Routes:     ████████████████████░░  90%
+Marketplace:          ██████████████████░░░░  85%
+Community Features:   ████░░░░░░░░░░░░░░░░░░  15%
+Ships & Gear:         ░░░░░░░░░░░░░░░░░░░░░░   0%
+Overlay System:       ░░░░░░░░░░░░░░░░░░░░░░   0%
+
+Overall Progress:     ███████████░░░░░░░░░░░  38%
+```
+
+---
+
+## 🏆 **Milestones**
+
+- [x] ✅ **100 Users** - Achieved!
+- [x] ✅ **Core Trading Features** - Achieved!
+- [x] ✅ **Marketplace MVP** - Achieved!
+- [ ] 🎯 **1,000 Users**
+- [ ] 🎯 **Community Features Complete**
+- [ ] 🎯 **Overlay System Released**
+- [ ] 🎯 **Version 1.0 Launch**
+
+---
+
+## 📞 **Stay Updated**
+
+- **In-App**: Check this roadmap anytime from the Help menu
+- **Discord**: Join our community (coming soon!)
+- **Updates**: Automatic with every new feature
+
+---
+
+## 💙 **Thank You!**
+
+Thank you for using UEXbud! Your feedback helps us build the best Star Citizen companion app.
+
+**Made with ❤️ for the Star Citizen community**
+
+---
+
+*Legend:*
+- ✅ Available Now
+- 🚧 In Progress
+- 🔜 Coming Soon (2-4 weeks)
+- 🎯 Planned (4-8 weeks)
+- 🔮 Future Vision (8+ weeks)
+
+*Last Updated: December 2024*
+
